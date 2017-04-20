@@ -2,16 +2,16 @@
   "settings": {
     "currentPage": "index.html",
     "versionFirst": "2.9",
-    "versionPublish": "3.12.1",
+    "versionPublish": "2.9",
     "name": "LAURA PORTFOLIO",
     "theme": {
       "name": "default",
-      "title": "Mobirise",
-      "styling": {}
+      "title": "Mobirise"
     },
     "path": "file:///C:/Users/Emiel/AppData/Local/Mobirise.com/Mobirise/projects/project-2016-10-05_201127",
     "screenshot": "screenshot.png",
-    "uniqCompNum": 0
+    "publishType": "local",
+    "publishPath": "file:///C:/Users/Emiel/Documents/Fax/website"
   },
   "pages": {
     "index.html": {
@@ -39,16 +39,12 @@
               "font-family": "'Indie Flower', cursive",
               "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
               "font-size": "18px"
-            },
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
             }
           },
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
             "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff",
             "transparent": false,
             "sticky": true,
             "collapsed": false,
@@ -74,18 +70,6 @@
           "_inherit": "header1",
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_name": "header4",
-          "_styles": {
-            "P": {
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "color": "#ffffff"
-            },
-            "H1": {
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "color": "#4c6972"
-            }
-          },
           "_anchor": "header4-2",
           "_params": {
             "parallax": true,
@@ -108,13 +92,23 @@
           },
           "title": "Welkom",
           "text": "Hallo, ik ben Laura Beckers, studeer keramiek en glaskunst aan de Sint-Lucas academie.&nbsp;",
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
+          "_styles": {
+            "P": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "color": "#ffffff"
+            },
+            "H1": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "color": "#4c6972"
+            }
+          }
         },
         {
           "_name": "gallery1",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
             "images": [
               {
                 "thumb": "@PROJECT_PATH@/assets/images/img-6261-3888x2592-67-2000x1333-65.jpg",
@@ -147,29 +141,17 @@
                 "active": true
               }
             ],
-            "showText": false,
             "bgColor": "#efefef",
             "fullWidth": true,
-            "noGutter": false,
-            "showBullets": true
+            "noGutter": false
           },
           "_anchor": "gallery1-4",
           "articleLayout": false
         },
         {
           "_name": "contacts3",
-          "_styles": {
-            "P": {
-              "font-size": "25px",
-              "font-family": "'Indie Flower', cursive",
-              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
-              "color": "#ffffff"
-            }
-          },
           "_anchor": "contacts3-5",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -209,7 +191,15 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">CONTACT US</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">CONTACT US</a>",
+          "_styles": {
+            "P": {
+              "font-size": "25px",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     }
