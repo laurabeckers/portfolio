@@ -1,0 +1,681 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "2.9",
+    "uniqCompNum": 25,
+    "versionPublish": "3.12.1",
+    "name": "LAURA PORTFOLIO",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {}
+    },
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home - Laura Beckers",
+        "meta_descr": "Laura; Beckers; Ceramics;",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_styles": {
+            "P": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "color": "#ffffff"
+            },
+            "H1": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "header4-2",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/36-2000x3000.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": true,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "title": "Welkom",
+          "text": "Ik ben Laura Beckers, <br>ik studeer keramiek en glaskunst aan het LUCA.<br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-9",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Laura Beckers , All Rights Reserved."
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "17px"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "22px"
+            },
+            ".mbr-brand__name a SPAN": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-c",
+          "_params": {
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>Laura Beckers</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Home</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"werk.html\"><span class=\"mbri-photos mbr-iconfont mbr-iconfont-btn\"></span>Mijn Werk&nbsp;</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact.html\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\"></span>Contact</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
+        }
+      ]
+    },
+    "werk.html": {
+      "settings": {
+        "title": "Werk",
+        "meta_descr": "Laura; Beckers; mijn werk;"
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "text-align": "center"
+            },
+            "B": {
+              "font-size": "46px",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content1-i",
+          "text": "<blockquote><b>Functioneel Werk</b></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-d",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Laura Beckers , All Rights Reserved."
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "17px"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "22px"
+            },
+            ".mbr-brand__name a SPAN": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-e",
+          "_params": {
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>Laura Beckers</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Home</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"werk.html\"><span class=\"mbri-photos mbr-iconfont mbr-iconfont-btn\"></span>Mijn Werk&nbsp;</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact.html\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\"></span>Contact</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/1-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-2000x1334.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/2-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2-2000x1334.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/3-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3-2000x1334.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/4-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/4-2000x1333.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/5-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/5-2000x1334.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/6-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/6-2000x1334.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/20-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20-2000x1334.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/16-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/16-2000x1334.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/22-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/22-2000x1334.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/21-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/21-2000x1334.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/23-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/23-2000x1334.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/28-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/28-2000x1334.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#ffffff",
+            "fullWidth": true,
+            "noGutter": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-f",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "text-align": "center"
+            },
+            "B": {
+              "font-size": "46px",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content1-k",
+          "text": "<blockquote><b>Creatief Werk</b></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/9-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/9-2000x3000.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/11-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/11-2000x3000.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/12-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12-2000x3000.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/13-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/13-2000x3000.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/14-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/14-2000x3000.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/15-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/15-2000x3000.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/18-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/18-2000x3000.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/19-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/19-2000x3000.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/25-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/25-2000x3000.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/27-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/27-2000x3000.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/29-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/29-2000x3000.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/30-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/30-2000x3000.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/31-2000x2940-800x1176.jpg",
+                "image": "@PROJECT_PATH@/assets/images/31-2000x2940.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/33-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/33-2000x3000.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/36-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/36-2000x3000.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/34-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/34-2000x3000.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/17-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/17-2000x1334.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/24-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/24-2000x1334.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/26-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/26-2000x1334.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/35-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/35-2000x1334.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/32-2000x1332-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/32-2000x1332.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#ffffff",
+            "fullWidth": true,
+            "noGutter": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-l",
+          "articleLayout": false
+        }
+      ]
+    },
+    "Contact.html": {
+      "settings": {
+        "title": "Contact",
+        "meta_descr": "Laura; Beckers; Contacteer; mij;"
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-m",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Laura Beckers , All Rights Reserved."
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "17px"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "22px"
+            },
+            ".mbr-brand__name a SPAN": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-n",
+          "_params": {
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><span class=\"mbri-user2 mbr-iconfont mbr-iconfont-btn\"></span>Laura Beckers</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Home</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"werk.html\"><span class=\"mbri-photos mbr-iconfont mbr-iconfont-btn\"></span>Mijn Werk&nbsp;</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact.html\"><span class=\"mbri-paper-plane mbr-iconfont mbr-iconfont-btn\"></span>Contact</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "form1-o",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/30-2000x3000.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "CONTACTEER MIJ!!!",
+          "form": {
+            "action": "laura.beckers@hotmail.be",
+            "alerts": {
+              "success": "Bedankt voor je inzending!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Naam*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Boodschap"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">VERZENDEN!</a>"
+        }
+      ]
+    }
+  }
+}

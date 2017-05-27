@@ -1,0 +1,207 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "2.9",
+    "versionPublish": "2.9",
+    "name": "LAURA PORTFOLIO",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise"
+    },
+    "path": "file:///C:/Users/Emiel/AppData/Local/Mobirise.com/Mobirise/projects/project-2016-10-05_201127",
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "file:///C:/Users/Emiel/Documents/Fax/website"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "font-size": "18px"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "color": "#2c2c2c",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Laura Beckers</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-2",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/untitled-1-2496x2881-23.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "title": "Welkom",
+          "text": "Hallo, ik ben Laura Beckers, studeer keramiek en glaskunst aan de Sint-Lucas academie.&nbsp;",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>",
+          "_styles": {
+            "P": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "color": "#ffffff"
+            },
+            "H1": {
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "color": "#4c6972"
+            }
+          }
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-6261-3888x2592-67-2000x1333-65.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-6261-3888x2592-67.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-6251-2592x3888-88-2000x3000-74.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-6251-2592x3888-88.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-6247-3888x2592-79-2000x1333-11.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-6247-3888x2592-79.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-6254-2592x3888-41-2000x3000-14.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-6254-2592x3888-41.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-6255-2592x3888-42-2000x3000-35.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-6255-2592x3888-42.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-6279-2592x3888-81-2000x3000-54.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-6279-2592x3888-81.jpg",
+                "active": true
+              }
+            ],
+            "bgColor": "#efefef",
+            "fullWidth": true,
+            "noGutter": false
+          },
+          "_anchor": "gallery1-4",
+          "articleLayout": false
+        },
+        {
+          "_name": "contacts3",
+          "_anchor": "contacts3-5",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<br>\n<strong>CONTACTS</strong><br>\nEmail: Laura.beckers@hotmail.be<br>\nPhone: &nbsp;0032483353001<br><br>",
+          "text2": "",
+          "form": {
+            "title": "MESSAGE",
+            "action": "emielcaus@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">CONTACT US</a>",
+          "_styles": {
+            "P": {
+              "font-size": "25px",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower",
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
